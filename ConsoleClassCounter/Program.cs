@@ -23,7 +23,7 @@ namespace ConsoleClassCounter {
         }
     }
     class Counter {
-        internal static int startDiapazon = 1;
+        internal static int startDiapazon = 1; 
         internal static int endDiapazon = 10;
         internal static int infoValue {
             get {
